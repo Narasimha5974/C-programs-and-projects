@@ -8,7 +8,7 @@ void main(){
     scanf("%d",&arr[i]);
   }
   double result =average (arr, size);
-  printf("\nAverage = %.2f",result);
+  printf("\nAverage = %.2lf",result);
 }
 double average(int arr[],int size){
   double average;
