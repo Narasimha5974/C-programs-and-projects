@@ -152,5 +152,3 @@ int main() {
     return 0;
 }
 
-
-Why we should take while(1)
